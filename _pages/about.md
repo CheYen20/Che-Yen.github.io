@@ -7,25 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Che-Yen Chang, currently pursuing my Master's degree in Information Engineering at Chang Gung University. I am a lively and outgoing individual, always eager to learn.
+Hi, I'm Che-Yen (哲嚴), currently pursuing my Master's degree in Information Engineering at Chang Gung University. I am a lively and outgoing individual with a strong eagerness to learn and grow.
 
-During my high school years, I served as the vice president of a service-oriented club and as the vice coordinator for orientation events.
+During my high school years, I served as the Vice President of a service-oriented club and as the Vice Coordinator for orientation events. Later, in my undergraduate studies, I actively engaged in various extracurricular activities, including department clubs, friendship associations, baking clubs, and community service teams.
 
-Throughout my undergraduate studies, I actively participated in various extracurricular activities such as department clubs, friendship associations, baking clubs, and community service teams.
+During my high school years, I served as the Vice President of a service-oriented club and as the Vice Coordinator for orientation events. Later, in my undergraduate studies, I actively engaged in various extracurricular activities, including department clubs, friendship associations, baking clubs, and community service teams.
 
-In my first year of graduate studies, I served as a TA for Operating Systems and Operating Systems Practices, and successfully obtained the Graduate Student Cultivation Scholarship for two academic years.
+In my first year of graduate school, I served as a Teaching Assistant for Operating Systems and Operating Systems Practices. I was also honored to receive the Graduate Student Cultivation Scholarship for two consecutive academic years.
 
-Through these roles in various activities, I learned the importance of expressing my ideas clearly, communicating effectively with others, respecting diverse opinions, and mastering task prioritization, resource allocation, and time management.
+Through these roles and experiences, I have learned the importance of clear communication, respecting diverse perspectives, and effective teamwork. I have also strengthened my abilities in task prioritization, resource allocation, and time management.
 
 
 Personality
 ======
-I am enthusiastic about helping others and strive to fulfill tasks entrusted to me while prioritizing them based on urgency. I firmly believe that punctuality is of utmost importance, both as a student and as a fundamental form of respect for learning.
+I am enthusiastic about helping others and take pride in completing tasks responsibly. I prioritize my work according to urgency and strongly believe that punctuality is not only a key value but also a fundamental form of respect.
 
 
 Hobbies
 ======
-In my leisure time, I enjoy listening to a wide range of podcasts, including. Additionally, I maintain my physical well-being by engaging in jogging sessions 2-3 times a week. 
+In my leisure time, I enjoy listening to a wide variety of podcasts, which broaden my knowledge and perspectives. To maintain a balanced lifestyle, I also jog two to three times a week for both fitness and relaxation.
 
 
 
